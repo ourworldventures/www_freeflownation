@@ -14,7 +14,7 @@ extra:
 
 <br>
 
-<a onclick="window.open('https://ourworldventures.github.io/info_ourworld/intro/intro.html', '_blank')"><h6>Knowledgebase</h6></a>
+<a onclick="window.open('', '_blank')"><h6>Knowledgebase</h6></a>
 
 ###### [Blog](/blog)
 
@@ -22,9 +22,11 @@ extra:
 
 |||
 
-##### **THE VENTURES**
+##### **THE ECOSYSTEM**
 
 <br>
+
+<a onclick="window.open('https://ourworld.tf', '_blank')"><h6>OurWorld</h6></a>
 
 <a onclick="window.open('https://threefold.io', '_blank')"><h6>ThreeFold</h6></a>
 

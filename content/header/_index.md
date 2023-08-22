@@ -4,7 +4,7 @@ description: ""
 insert_anchor_links: "left"
 template: "partials/header.html"
 extra:
-  logoPath: "/images/OW_Logo.png"
+  logoPath: "/images/ff_logo.png"
   imgPath: ""
 ---
 
@@ -42,4 +42,4 @@ extra:
 
 {% end %}
 
-- [Knowledge]("https://ourworldventures.github.io/info_ourworld/intro/intro.html")
+- [Knowledge]("")

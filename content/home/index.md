@@ -9,17 +9,30 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center" margin="tight" bgPath="img/freeflow_header_home4.jpeg" bgStyle="full") %} 
-
-<div class="text-white">
+{% row(style="center" margin="tight" bgPath="img/freeflow_home.jpeg" bgStyle="full") %}
 
 # FreeFlow Nation
 
 <br>
 
-A complementary digital "nation" which flows freely across physical borders welcoming as digital citizens all those who dream of a better world and dare to act.
+A complementary digital "nation" which flows freely across physical borders welcoming as digital citizens all those who dream of a better world and are ready to act.
 
-</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 {% end %}
 
@@ -29,7 +42,7 @@ A complementary digital "nation" which flows freely across physical borders welc
 
 {% row(style="center" padding="top") %}
 
-### Together, we are **saying goodbye** to the constraints and disappointments of the current "normal" world. We are building a fresh and innovative new world grounded in **real solutions** and **planet and people first values**.
+### We believe in a **new world** where we all put the **planet and people first**, and everyone has **equal chances**. We believe that through technology we can make it happen.
 
 {% end %}
 
@@ -53,11 +66,17 @@ Do you feel the need to join a new nation? Become a citizen of our FreeFlow Nati
 
 <br>
 
-Co-founders who are dreamers and doers. People unhappy with their physical home country. Rebels who are tired of what the world is becoming and want to re-organize their life with more independence. Artists who want to own what they create. Digital nomads. And all those who feel the calling.
+Come one, come all. Co-founders who are dreamers and doers. Digital Nomads and Sovereign People yearning for more independence and a fresh start, tired of the direction the world is taking. Not out of anger but out of love and hope for a better future. Individuals struggling in their physical countries, who want to find purpose in a Digital Nation. Artists who seek innovative ways to express and earn a living from their creativity. And all those who feel the calling.
 
 <br>
 
 <button>[Become a Citizen](/citizenship)</button>
+
+{% end %}
+
+{% row(style="center" padding="both") %}
+
+### Together, we are **saying goodbye** to the constraints and disappointments of the current "normal" world. We are building a fresh and innovative new world grounded in **real solutions** and **planet and people first values**.
 
 {% end %}
 

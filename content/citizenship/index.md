@@ -9,7 +9,7 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center" margin="tight" bgPath="img/freeflow_header_home3.jpeg" bgStyle="full" id="ventures") %}
+{% row(style="center" margin="tight" bgPath="img/freeflow_header_home4.jpeg" bgStyle="full" id="ventures") %}
 
 <div class="text-white">
 
@@ -17,13 +17,17 @@ weight: 1
 
 <br>
 
-We're stronger together. Join a a community of like-minded people around the world. Become part of a FreeFlowing ecosystem of tools and participation mechanisms.
+We're stronger together. Join a a community of like-minded people from around the world. Become part of a FreeFlowing ecosystem of tools and participation mechanisms.
 
 </div>
 
 {% end %}
 
+<br>
+
 {% row(style="center" padding="bottom") %}
+
+![Image](./img/passport.png#medium#mx-auto)
 
 ### FreeFlow<br>Passport
 
@@ -37,6 +41,8 @@ The FreeFlow Passport allows you to get access to all benefits as mentioned here
 
 |||
 
+![Image](./img/digitaltwin.png#medium#mx-auto)
+
 ### FreeFlow<br>Digital Twin
 
 <br/>
@@ -49,6 +55,8 @@ All your data and digital capabilities are owned by you.
 
 |||
 
+![Image](./img/legaltwin.png#medium#mx-auto)
+
 ### FreeFlow<br>Legal Twin
 
 <br/>
@@ -60,6 +68,8 @@ Optionally a FreeFlow Nation Citizen can get a personal company in a Digital Fre
 Read about the Free Zone [here](https://ourworldfreezone.com).
 
 |||
+
+![Image](./img/financial.png#medium#mx-auto)
 
 ### FreeFlow<br>Financial Tools
 
@@ -120,6 +130,24 @@ Get all the health advice you need. Talk freely to FreeFlow Doctors, all digital
 <br>
 
 As a health coach or doctor, participate in a co-owned medical AI system.
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+## How to Become a Citizen
+
+<br>
+
+Do you feel the need to join a new nation? Become a citizen of our FreeFlow Nation – a a utopian digital nation with full financial and legal sovereignty. A nation we are building together with 99,999 co-founders. 
+
+<br>
+
+Co-founders who are dreamers and doers. People unhappy with their physical home country. Rebels who are tired of what the world is becoming and want to re-organize their life with more independence. Artists who want to own what they create. Digital nomads. And all those who feel the calling.
+
+<br>
+
+<button>[Become a Citizen](/citizenship)</button>
 
 {% end %}
 
