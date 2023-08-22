@@ -9,226 +9,55 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center" margin="tight" bgPath="img/horizon.jpeg" bgStyle="full") %} 
+{% row(style="center" margin="tight" bgPath="img/freeflow_header_home4.jpeg" bgStyle="full") %} 
 
-# OurWorld
- 
-### A Platform to Enable Self-Sovereignty.
+<div class="text-white">
+
+# FreeFlow Nation
 
 <br>
 
-Together we are creating a multi-faceted platform to support and empower startups aspiring to harness the potential of emerging technology while putting the planet and people first. The sun is rising on a new way forward.
+A complementary digital "nation" which flows freely across physical borders welcoming as digital citizens all those who dream of a better world and dare to act.
 
-<button>[Our Ventures](/ventures)</button>
+</div>
 
 {% end %}
 
 <div class="container mx-auto">
 
-
-
 <!-- section 2  -->
 
 {% row(style="center" padding="top") %}
 
-![Image](./img/platforms_wide.png#large#mx-auto)
-
-## What We Provide
+### Together, we are **saying goodbye** to the constraints and disappointments of the current "normal" world. We are building a fresh and innovative new world grounded in **real solutions** and **planet and people first values**.
 
 {% end %}
-
-<br>
-
-
-{% row(style="center" padding="none") %}
-
-### Funding Platform
-
-<br/>
-
-Funding for potentially hundreds of like-minded projects, with a primary focus on emering technology that puts the planet and people first.
-
-|||
-
-### Technological Platform
-
-<br/>
-
-A technological platform that enables everyone to be self-sovereign from a digital perspective. This is a fundamental requirement.
-
-{% end %}
-
-
-{% row(style="center" padding="both") %}
-
-### Legal & Financial<br/>Independence Platform
-
-<br/>
-
-Supplement technological sovereignty with a system that offers legal and financial independence through mechanisms like free zones and sovereign sustainable charter cities.
-
-|||
-
-### Life Supporting Platform
-
-<br/>
-
-Create a sovereign and efficient set of platforms for financial, educational, and health systems, which can be utilized by all startups within the venture creator.
-
-{% end %}
-
 
 <!-- section 3  -->
 
+{% row(style="center" padding="top") %}
 
-{% row(style="center" margin="narrow" padding="top") %}
-
-![Image](./img/values.png#large#mx-auto)
-
-## The Foundation of Every Venture
+![Image](./img/paint.jpeg#large#mx-auto)
 
 {% end %}
-
-<br>
-
-{% row(style="center" margin="narrow" padding="bottom") %}
-
-### Planet First
-
-<br/>
-
-Never do anything which does not respect mother earth.
-
-|||
-
-### People First
-
-<br/>
-
-Equality for everyone.
-
-|||
-
-### Open Source
-
-<br/>
-
-For all sectors from healthcare to software to legal to education.
-
-|||
-
-### Authenticity
-
-<br/>
-
-Restore authenticity of people and information.
-
-|||
-
-### Simplicity
-
-<br/>
-
-Complexity is killing progress.
-
-{% end %}
-
-
 
 <!-- section 4  -->
 
-
 {% row(style="center" margin="narrow" padding="top") %}
 
-## Our Journey
-
-{% end %}
+## Let's Paint Our Own Future
 
 <br>
 
-{% row(style="center" padding="bottom") %}
+Do you feel the need to join a new nation? Become a citizen of our FreeFlow Nation – a a utopian digital nation with full financial and legal sovereignty. A nation we are building together with 99,999 co-founders. 
 
-### Phase One
+<br>
 
-![Image](./img/past.png#mx-auto)
+Co-founders who are dreamers and doers. People unhappy with their physical home country. Rebels who are tired of what the world is becoming and want to re-organize their life with more independence. Artists who want to own what they create. Digital nomads. And all those who feel the calling.
 
-#### Creation of Core Tech
+<br>
 
-<br/>
-
-10+ years of development.
-
-<br/>
-
-Built decentralized, autonomous, edge Internet technology.
-
-<br/>
-
-50M USD invested by community and TF Tech investors.
-
-|||
-
-### Phase Two
-
-![Image](./img/past.png)
-
-#### Expansion & Proof
-
-<br/>
-
-Signed with government of Zanzibar for digital free zone and connected charter city.
-
-<br/>
-
-Eight projects with working tech, active and ready to scale.
-
-<br/>
-
-Core technology proven.
-
-|||
-
-### Phase Three
-
-![Image](./img/current.png)
-
-#### Launch Our Ventures
-
-<br/>
-
-Conclude on 30M USD fundraise.
-
-<br/>
-
-Global awareness campaign.
-
-<br/>
-
-Launch digital asset exchange, carbon credits.
-
-<br/>
-
-Millions of people using services and products of our ventures.
-
-|||
-
-### Phase Four
-
-![Image](./img/future.png)
-
-#### Sovereignty For All
-
-<br/>
-
-+1 million nodes deployed.
-
-<br/>
-
-Impacting +100 million people.
-
-<br/>
-
-The startups in the venture creator are now community-owned and our investors received a good exit.
+<button>[Become a Citizen](/citizenship)</button>
 
 {% end %}
 

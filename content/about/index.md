@@ -9,19 +9,15 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center" margin="tight" bgPath="img/about.jpeg" bgStyle="full") %} 
+{% row(style="center" margin="tight" bgPath="img/freeflow_header_about.jpeg" bgStyle="full") %} 
 
 # About
- 
-### What & Who We Are.
 
 <br>
 
-A venture creator is a company or organization that creates and develops new businesses, typically in the form of startups. Support includes providing funding, resources, and mentorship.
+"Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. Be water, my friend." – Bruce Lee
 
 {% end %}
-
-
 
 <div class="container mx-auto">
 
@@ -29,7 +25,59 @@ A venture creator is a company or organization that creates and develops new bus
 
 {% row(style="" reverse="rightreserve") %}
 
-The OurWorld Venture Creator is backed by the ThreeFold Team – with the goal of not just doing business, but doing good for the world while we’re at it. We are an international team of experts and passionate believers in a better world who choose to act to make a difference.
+## The FreeFlow Cooperative
+
+<br>
+
+We operate as a cooperative. In the first phase, we will still operate underneath the legal umbrella of OurWorld in Mauritius, but as we go forward, the coopereative will be established and we all become members.
+
+<br>
+
+The cooperative will be a globally recognized structure that enables us to effectively coordinate our collaboration across both the digital and physical realms.
+
+<br>
+
+We do this because a cooperative allows ... 
+
+|||
+
+![Image](./img/fear_to_love.jpeg)
+
+{% end %}
+
+<!-- section 3 -->
+
+{% row(style="") %}
+
+![Image](./img/planet.png#mx-auto)
+
+|||
+
+## People & Planet First
+
+<br/>
+
+Values are the glue which hold us together. We believe that we all have a responsibility not only to each other but also to the planet which we all call our collective home.
+
+<br/>
+
+Anything we do or create must be done with the planet and people in mind. Are we protecting, or even better, regenerating our planet? Are we helping the people around us?
+
+<br/>
+
+We're all about taking quick action and turning our dreams into reality as soon as we can.
+
+{% end %}
+
+<!-- section 4 -->
+
+{% row(style="" reverse="rightreserve") %}
+
+## Backed by ThreeFold
+
+<br>
+
+FreeFlow Nation is backed by the team behind ThreeFold. We are an international team of experts and passionate believers in a better world who choose to act to make a difference.
 
 <br/>
 
@@ -37,70 +85,16 @@ This journey began with the creation of a new Internet infrastructure layer, a p
 
 <br/>
 
-Our co-founders also have experience running [Incubaid](https://incubaid.com), a successful incubator focused primarily on helping to change our planet for the better through technology that supports decentralization. Over 19 years, Incubaid did seven strong exits.
-
-|||
-
-![Image](./img/threefold.png#medium#mx-auto)
-
-{% end %}
-
-
-
-<!-- section 3 -->
-
-{% row(style="") %}
-
-![Image](./img/president.png#mx-auto)
-
-|||
-
-ThreeFold Tech has successfully created cutting-edge technology for an upgraded Internet and digital twin technology with an embedded ultra scaleable financial system.
+Beyond creating Internet technology, the ThreeFold team firmly believes that new alternative decentralized and sovereign systems are needed across verticals and industries, to empower a more fair and equal world.
 
 <br/>
 
-The ThreeFold Grid, which deploys this technology in an open-source model, has been active for years and is also in its third generation. The community continues to add capacity and use it on a daily basis, as seen on the ThreeFold Grid explorer statistics.
-
-<br/>
-
-We have signed an agreement with the government of Zanzibar for the implementation of a digital free zone utilizing our technology.
-
-{% end %}
-
-
-
-<!-- section 4 -->
-
-{% row(style="" reverse="rightreserve") %}
-
-We have also completed all necessary preparations for the launch of our digital twin, the freeflow twin, which can be viewed on the website [freeflow.life](https://freeflow.life). This venture is ready to launch and is eagerly anticipated by the community.
-
-<br/>
-
-There are multiple ventures waiting to be born as more funding comes in to use our technology and provide value for large communities.
+Visit [threefold.io](https://threefold.io) for more.
 
 |||
 
-![Image](./img/freeflow.png)
+![Image](./img/threefold.png#large#mx-auto)
 
 {% end %}
-
 
 </div>
-
-
-<!-- section 5 -->
-
-{% row(style="center" margin="header" padding="top" bgColor="#007fc7") %} 
-
-<div class="text-white">
-
-## We Are an Experienced Team
-
-### With Seven Exits Over Two Decades
-
-</div>
-
-![Image](./img/exits.png)
-
-{% end %}

@@ -9,7 +9,7 @@ extra:
 ---
 
 - [About]("/about")
-- [Ventures]("/ventures")
+- [Become a Citizen]("/citizenship")
 - Info
 
 {% row(padding="none") %}
