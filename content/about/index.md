@@ -9,13 +9,17 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center" margin="tight" bgPath="img/freeflow_header_about.jpeg" bgStyle="full") %} 
+{% row(style="center" margin="tight" bgPath="img/paint.jpeg" bgStyle="full") %} 
+
+<div class="text-white">
 
 # About
 
 <br>
 
 We believe in a new world where we all put the planet and people first, and everyone has equal chances. We believe that through technology we can make it happen.
+
+</div>
 
 {% end %}
 
