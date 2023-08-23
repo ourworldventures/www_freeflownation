@@ -23,7 +23,11 @@ We're stronger together. Join a a community of like-minded people from around th
 
 {% end %}
 
-<br>
+{% row(style="center" margin="narrow" padding="top") %}
+
+## First Wave Solutions
+
+{% end %}
 
 {% row(style="center" padding="bottom") %}
 
@@ -80,6 +84,12 @@ Tools which allow us to re-invent the way we deal with finance on a global scale
 <br>
 
 Includes gold and land-backed digital currencies, a debit card, a peer-to-peer exchange, a wallet, and more.
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+## Second Wave Solutions
 
 {% end %}
 
