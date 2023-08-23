@@ -25,6 +25,12 @@ We believe in a new world where we all put the planet and people first, and ever
 
 <div class="container mx-auto">
 
+{% row(style="center" padding="top") %}
+
+### If not **now**, then when? If not **us**, then who?
+
+{% end %}
+
 <!-- section 2 -->
 
 {% row(style="" reverse="rightreserve") %}

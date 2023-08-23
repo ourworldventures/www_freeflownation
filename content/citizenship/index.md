@@ -23,9 +23,17 @@ We're stronger together. Join a a community of like-minded people from around th
 
 {% end %}
 
+<div class="container mx-auto">
+
+{% row(style="center" padding="top") %}
+
+### "We cannot **solve our problems** with the same thinking we used when we created them," Albert Einstein.
+
+{% end %}
+
 {% row(style="center" margin="narrow" padding="top") %}
 
-## First Wave Solutions
+## First Phase Solutions
 
 {% end %}
 
@@ -89,7 +97,7 @@ Includes gold and land-backed digital currencies, a debit card, a peer-to-peer e
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## Second Wave Solutions
+## Second Phase Solutions
 
 {% end %}
 
@@ -157,17 +165,11 @@ As a health coach or doctor, participate in a co-owned medical AI system.
 
 <br>
 
-Do you feel the need to join a new nation? Become a citizen of our FreeFlow Nation – a a utopian digital nation with full financial and legal sovereignty. A nation we are building together with 99,999 co-founders. 
-
-<br>
-
-Co-founders who are dreamers and doers. People unhappy with their physical home country. Rebels who are tired of what the world is becoming and want to re-organize their life with more independence. Artists who want to own what they create. Digital nomads. And all those who feel the calling.
-
-<br>
-
-<button>[Become a Citizen](/citizenship)</button>
+For $10 USD per month, you'll gain access to all of the above solutions and become part of the FreeFlow Nation.
 
 {% end %}
+
+</div>
 
 <style>
 

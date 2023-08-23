@@ -22,22 +22,15 @@ extra:
 
 |||
 
-##### **THE ECOSYSTEM**
+##### **COLLABORATORS**
 
 <br>
 
-<a onclick="window.open('https://ourworld.tf', '_blank')"><h6>OurWorld</h6></a>
-
 <a onclick="window.open('https://threefold.io', '_blank')"><h6>ThreeFold</h6></a>
 
-<a onclick="window.open('https://freezone.ourworld.tf/', '_blank')"><h6>OW Digital Free Zone</h6></a>
+<a onclick="window.open('https://freezone.ourworld.tf/', '_blank')"><h6>OurWorld Digital Free Zone</h6></a>
 
-<a onclick="window.open('https://sikana.tv/)', '_blank')"><h6>Sikana</h6></a>
-
-<a onclick="window.open('https://ourverse.tf/', '_blank')"><h6>OurVerse</h6></a>
-
-<a onclick="window.open('https://ourphone.tf/', '_blank')"><h6>OurPhone</h6></a>
-
+<a onclick="window.open('https://ourworld.tf', '_blank')"><h6>OurWorld Venture Creator</h6></a>
 
 |||
 
