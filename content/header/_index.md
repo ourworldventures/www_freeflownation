@@ -30,16 +30,6 @@ extra:
 <br>
 <p class="text-sm">Check The Latest Updates</p>
 
-|||
-
-<button onclick="window.location.href='/people'">
-
-[Team](/people)
-<br>
-<p class="text-sm">Team, Stories & More</p>
-
-</button>
-
 {% end %}
 
 - [Knowledge]("")
