@@ -15,7 +15,7 @@ weight: 1
 
 <br>
 
-"Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. Be water, my friend." – Bruce Lee
+We believe in a new world where we all put the planet and people first, and everyone has equal chances. We believe that through technology we can make it happen.
 
 {% end %}
 
@@ -34,10 +34,6 @@ We operate as a cooperative. In the first phase, we will still operate underneat
 <br>
 
 The cooperative will be a globally recognized structure that enables us to effectively coordinate our collaboration across both the digital and physical realms.
-
-<br>
-
-We do this because a cooperative allows ... 
 
 |||
 
@@ -73,27 +69,19 @@ We're all about taking quick action and turning our dreams into reality as soon 
 
 {% row(style="" reverse="rightreserve") %}
 
-## Backed by ThreeFold
+## Backed by Many
 
 <br>
 
-FreeFlow Nation is backed by the team behind ThreeFold. We are an international team of experts and passionate believers in a better world who choose to act to make a difference.
+FreeFlow Nation is backed by different people and projects, who collaborate to give form to this digital nation. There is not one specific company behind.
 
 <br/>
 
-This journey began with the creation of a new Internet infrastructure layer, a process that took over 20 years – and was made possible by the contributions of thousands of people. Thank you to everyone who has made this possible.
-
-<br/>
-
-Beyond creating Internet technology, the ThreeFold team firmly believes that new alternative decentralized and sovereign systems are needed across verticals and industries, to empower a more fair and equal world.
-
-<br/>
-
-Visit [threefold.io](https://threefold.io) for more.
+We work together with a Digital Free Zone (see [ourworldfreezone.com](https://ourworldfreezone.com)) to make sure all is strongly regulated and is following best practices. And we use open source technology that has been developed by ThreeFold (see [threefold.io](https://threefold.io)), which is a decentralized Internet infrastructure layer.
 
 |||
 
-![Image](./img/threefold.png#large#mx-auto)
+![Image](./img/backed.png#large#mx-auto)
 
 {% end %}
 

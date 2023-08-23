@@ -95,6 +95,8 @@ Includes gold and land-backed digital currencies, a debit card, a peer-to-peer e
 
 {% row(style="center" padding="bottom") %}
 
+![Image](./img/artist.png#medium#mx-auto)
+
 ### FreeFlow<br>Artist & Publisher Tools
 
 <br/>
@@ -106,6 +108,8 @@ Become an active publisher and creative contributor in the FreeFlow Nation – m
 Allow your audience to experience your creations while you retain full ownership.
 
 |||
+
+![Image](./img/education.png#medium#mx-auto)
 
 ### FreeFlow<br>Student & Teacher Tools
 
@@ -119,17 +123,21 @@ Share your knowledge with the people around you. Be part of group-owned AI knowl
 
 |||
 
+![Image](./img/business.png#medium#mx-auto)
+
 ### FreeFlow<br>Entrepreneur & Merchant Tools
 
 <br/>
 
-Become an active participant in the business life of FreeFlow Nation. Do business, share and exchangge value with no friction.
+Become an active participant in the business life of FreeFlow Nation. Do business, share and exchange value with no friction.
 
 <br>
 
 Start an e-Commerce business in less than a day.
 
 |||
+
+![Image](./img/healthy.png#medium#mx-auto)
 
 ### FreeFlow<br>Healthy Life<br>Tools
 

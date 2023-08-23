@@ -4,7 +4,7 @@ description: ""
 insert_anchor_links: "left"
 template: "partials/header.html"
 extra:
-  logoPath: "/images/ff_logo.png"
+  logoPath: "/images/ff_logo3.png"
   imgPath: ""
 ---
 

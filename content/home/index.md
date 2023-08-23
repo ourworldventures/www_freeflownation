@@ -9,7 +9,9 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center" margin="tight" bgPath="img/freeflow_home.jpeg" bgStyle="full") %}
+{% row(style="center" margin="tight" bgPath="img/paint.jpeg" bgStyle="full") %}
+
+<div class="text-white">
 
 # FreeFlow Nation
 
@@ -17,22 +19,7 @@ weight: 1
 
 A complementary digital "nation" which flows freely across physical borders welcoming as digital citizens all those who dream of a better world and are ready to act.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+</div>
 
 {% end %}
 
@@ -42,15 +29,7 @@ A complementary digital "nation" which flows freely across physical borders welc
 
 {% row(style="center" padding="top") %}
 
-### We believe in a **new world** where we all put the **planet and people first**, and everyone has **equal chances**. We believe that through technology we can make it happen.
-
-{% end %}
-
-<!-- section 3  -->
-
-{% row(style="center" padding="top") %}
-
-![Image](./img/paint.jpeg#large#mx-auto)
+### Together, we are **saying goodbye** to the constraints and disappointments of the current "normal" world. We are building a fresh and innovative new world grounded in **[real solutions](/citizenship)** and **planet and people first values**.
 
 {% end %}
 
@@ -71,12 +50,6 @@ Come one, come all. Co-founders who are dreamers and doers. Digital Nomads and S
 <br>
 
 <button>[Become a Citizen](/citizenship)</button>
-
-{% end %}
-
-{% row(style="center" padding="both") %}
-
-### Together, we are **saying goodbye** to the constraints and disappointments of the current "normal" world. We are building a fresh and innovative new world grounded in **real solutions** and **planet and people first values**.
 
 {% end %}
 
