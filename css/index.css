@@ -388,3 +388,36 @@ header #menu button a{
   @apply
   px-0
 }
+
+.video-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  z-index: 9;
+}
+video {
+  position: absolute;
+  top: 0;
+  right: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+.layer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  z-index: 40;
+  background-color: black;
+  opacity: .5;
+}
+.content {
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+}

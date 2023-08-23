@@ -9,19 +9,7 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center" margin="tight" bgPath="img/freeflow_header_home4.jpeg" bgStyle="full") %}
-
-<div class="text-white">
-
-# FreeFlow Nation
-
-<br>
-
-A complementary digital "nation" which flows freely across physical borders welcoming as digital citizens all those who dream of a better world and are ready to act.
-
-</div>
-
-{% end %}
+{{ video(video="./video/evening.mp4", autoplay=true, class="vimeo") }}
 
 <div class="container mx-auto">
 
