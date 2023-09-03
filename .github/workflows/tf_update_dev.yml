@@ -1,4 +1,4 @@
-name: www2.ourworld.tf
+name: www2.freeflow.ourworld.tf
 on:
   push:
     branches: [ development ]
@@ -8,17 +8,17 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-    - name: pushing latest change on www2.ourworld.tf
+    - name: pushing latest change on www2.freeflow.ourworld.tf
       uses: appleboy/ssh-action@master
       with:
-        host: www2.ourworld.tf
+        host: www2.freeflow.ourworld.tf
         username: webuser
         key: ${{ secrets.TF_SECRET }}
         port: 34022
         script: |
-          cd websites/www2/www_ourworld_tf/
+          cd websites/tmp/www_freeflownation/
           git log -1
           git fetch
           git reset --hard origin/development
-          sed -i "s/https:\/\/www.ourworld.tf/https:\/\/www2.ourworld.tf/g" config.toml
+          sed -i "s/https:\/\/freeflow.ourworld.tf/https:\/\/www2.freeflow.ourworld.tf/g" config.toml
           ./build.sh
