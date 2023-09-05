@@ -4,12 +4,13 @@ description: ""
 insert_anchor_links: "left"
 template: "partials/header.html"
 extra:
-  logoPath: "/images/ff_logo3.png"
+  logoPath: "/images/ff_logo_new.png"
   imgPath: ""
 ---
 
 - [About]("/about")
-- [Become a Citizen]("/citizenship")
+- [FreeFlow Solutions]("/citizenship")
+- [Host Our Internet]("/farm")
 - Info
 
 {% row(padding="none") %}
