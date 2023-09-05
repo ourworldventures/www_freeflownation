@@ -31,10 +31,14 @@ The more there is chaos, the more there is potential for change – to do someth
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="left" margin="narrow" padding="top") %}
+
+![Image](./img/twin.png#medium#mx-auto)
+
+|||
 
 ### Step One
-## Get Your FreeFlow Twin
+## Get Your Twin
 
 <br>
 
@@ -42,7 +46,13 @@ Your FreeFlow Twin is your citizenship in the FreeFlow Nation. For a low cost, y
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="narrow" padding="none") %}
+
+<button>[Take Action](https://forms.gle/6yGAPypxbZSnVRnZ6)</button>
+
+{% end %}
+
+{% row(style="right" margin="narrow" padding="top") %}
 
 ### Step Two
 ## Connect Your Twin to the Free Zone
@@ -51,9 +61,23 @@ Your FreeFlow Twin is your citizenship in the FreeFlow Nation. For a low cost, y
 
 Your FreeFlow Twin can be connected to a personal company in a real sovereign digital free zone. Imagine the ultimate in sovereignty – a combination of legal, financial, and digital privacy.
 
+|||
+
+![Image](./img/freezone.png#medium#mx-auto)
+
 {% end %}
 
-{% row(style="center" margin="narrow" padding="both") %}
+{% row(style="center" margin="narrow" padding="none") %}
+
+<button>[Take Action](https://forms.gle/6yGAPypxbZSnVRnZ6)</button>
+
+{% end %}
+
+{% row(style="left" margin="narrow" padding="top") %}
+
+![Image](./img/host.png#medium#mx-auto)
+
+|||
 
 ### Step Three
 ## Host the FreeFlow Internet
@@ -61,6 +85,12 @@ Your FreeFlow Twin can be connected to a personal company in a real sovereign di
 <br>
 
 The FreeFlow Internet is our own Internet – built by us, for all of us. By connecting a FreeFlow Node at your home or office, you can provide a new kind of Internet capacity to the people around you and be rewarded for this act of service. Support a sovereign future.
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+<button>[Take Action](https://forms.gle/6yGAPypxbZSnVRnZ6)</button>
 
 {% end %}
 

@@ -47,7 +47,7 @@ The cooperative will be a globally recognized structure that enables us to effec
 
 |||
 
-![Image](./img/cooperative.png)
+![Image](./img/cooperative1.png)
 
 {% end %}
 
