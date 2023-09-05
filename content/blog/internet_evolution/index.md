@@ -9,7 +9,7 @@ taxonomies:
   categories: [foundation]
 extra:
   author: victoria_obeegadoo
-  imgPath: internet_evolution.png
+  imgPath: evolution.jpeg
   isFeatured: "true"
 ---
 

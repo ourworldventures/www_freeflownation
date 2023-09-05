@@ -9,10 +9,8 @@ taxonomies:
   categories: [threefold]
 extra:
   author: victoria_obeegadoo
-  imgPath: tech_as_a_tool_for_humanity.png
+  imgPath: tool_for_humanity.jpeg
 ---
-
-## Technology as a tool for humanity
 
 Technology… In today’s world, technology holds a central role. Younger generations in developed countries grow up amidst technological wonders of all sorts, truly immersed in an evolving digital landscape. Any information is a click away, offering immense intellectual capital unlike ever before – and on the other hand, great distraction, misinformation, and potential for division.
 

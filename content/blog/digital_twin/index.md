@@ -9,7 +9,7 @@ taxonomies:
   categories: [threefold]
 extra:
   author: victoria_obeegadoo
-  imgPath: digital_twin.png
+  imgPath: twin.png
 ---
 
 ## What is a Digital Twin?
