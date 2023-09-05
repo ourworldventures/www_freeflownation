@@ -9,15 +9,15 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center" margin="tight" bgPath="img/freeflow_header_home2.jpeg" bgStyle="full" id="ventures") %}
+{% row(style="center" margin="tight" bgPath="img/join_header.jpeg" bgStyle="full") %}
 
 <div class="text-white">
 
-## FreeFlow Solutions
+## Join FreeFlow Nation
 
 <br>
 
-We're stronger together. Join a a community of like-minded people from around the world. Become part of a FreeFlowing ecosystem of tools and participation mechanisms.
+The more there is chaos, the more there is potential for change – to do something which makes a difference. Today, a few individuals can come together to change the world. Together we are taking real actions to take a stand and say, "We want another way forward."
 
 </div>
 
@@ -27,154 +27,41 @@ We're stronger together. Join a a community of like-minded people from around th
 
 {% row(style="center" padding="top") %}
 
-### "We cannot **solve our problems** with the same thinking we used when we created them," Albert Einstein.
+### "Alone we can do so little; **together** we can **do so much**," Helen Keller
 
 {% end %}
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## First Phase Solutions
-
-{% end %}
-
-{% row(style="center" padding="bottom") %}
-
-![Image](./img/passport.png#medium#mx-auto)
-
-### FreeFlow<br>Passport
-
-<br/>
-
-A digital-only passport, valid in our FreeFlow Nation. Your digital identity.
+### Step One
+## Get Your FreeFlow Twin
 
 <br>
 
-The FreeFlow Passport allows you to get access to all benefits as mentioned here, in all efficiency and safety.
-
-|||
-
-![Image](./img/digitaltwin.png#medium#mx-auto)
-
-### FreeFlow<br>Digital Twin
-
-<br/>
-
-A sovereign digital virtual assistant. Allows you to manage your affairs much more easily, save your valuable time, and cut out day-to-day frustrations.
-
-<br>
-
-All your data and digital capabilities are owned by you.
-
-|||
-
-![Image](./img/legaltwin.png#medium#mx-auto)
-
-### FreeFlow<br>Legal Twin
-
-<br/>
-
-Optionally a FreeFlow Nation Citizen can get a personal company in a Digital Free Zone, allowing them to be sovereign from a financial and legal perspective.
-
-<br>
-
-Read about the Free Zone [here](https://ourworldfreezone.com).
-
-|||
-
-![Image](./img/financial.png#medium#mx-auto)
-
-### FreeFlow<br>Financial Tools
-
-<br/>
-
-Tools which allow us to re-invent the way we deal with finance on a global scale.
-
-<br>
-
-Includes gold and land-backed digital currencies, a debit card, a peer-to-peer exchange, a wallet, and more.
+Your FreeFlow Twin is your citizenship in the FreeFlow Nation. For a low cost, you can gain access to a set of sovereign digital tools and an ecosystem of like-minded individuals taking real actions to enable the world they wish to see.
 
 {% end %}
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## Second Phase Solutions
+### Step Two
+## Connect Your Twin to the Free Zone
+
+<br>
+
+Your FreeFlow Twin can be connected to a personal company in a real sovereign digital free zone. Imagine the ultimate in sovereignty – a combination of legal, financial, and digital privacy.
 
 {% end %}
 
-{% row(style="center" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="both") %}
 
-![Image](./img/artist.png#medium#mx-auto)
-
-### FreeFlow<br>Artist & Publisher Tools
-
-<br/>
-
-Become an active publisher and creative contributor in the FreeFlow Nation – music, art, video, and more.
+### Step Three
+## Host the FreeFlow Internet
 
 <br>
 
-Allow your audience to experience your creations while you retain full ownership.
-
-|||
-
-![Image](./img/education.png#medium#mx-auto)
-
-### FreeFlow<br>Student & Teacher Tools
-
-<br/>
-
-Get access to a global wealth of information. Use a personal AI search assistant and consultant to become smarter, faster.
-
-<br>
-
-Share your knowledge with the people around you. Be part of group-owned AI knowledge networks.
-
-|||
-
-![Image](./img/business.png#medium#mx-auto)
-
-### FreeFlow<br>Entrepreneur & Merchant Tools
-
-<br/>
-
-Become an active participant in the business life of FreeFlow Nation. Do business, share and exchange value with no friction.
-
-<br>
-
-Start an e-Commerce business in less than a day.
-
-|||
-
-![Image](./img/healthy.png#medium#mx-auto)
-
-### FreeFlow<br>Healthy Life<br>Tools
-
-<br/>
-
-Get all the health advice you need. Talk freely to FreeFlow Doctors, all digital and online.
-
-<br>
-
-As a health coach or doctor, participate in a co-owned medical AI system.
-
-{% end %}
-
-{% row(style="center" margin="narrow" padding="top") %}
-
-## How to Become a Citizen
-
-<br>
-
-For $10 USD per month, you'll gain access to all of the above solutions and become part of the FreeFlow Nation.
+The FreeFlow Internet is our own Internet – built by us, for all of us. By connecting a FreeFlow Node at your home or office, you can provide a new kind of Internet capacity to the people around you and be rewarded for this act of service. Support a sovereign future.
 
 {% end %}
 
 </div>
-
-<style>
-
-    .bg_color{
-        background-color: rgb(233 233 233 / 50%);
-    }
-
-    </style>

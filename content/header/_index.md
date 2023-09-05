@@ -9,8 +9,8 @@ extra:
 ---
 
 - [About]("/about")
-- [FreeFlow Solutions]("/citizenship")
-- [Host Our Internet]("/farm")
+- [FreeFlow Solutions]("/solutions")
+- [Join the Nation]("/citizenship")
 - Info
 
 {% row(padding="none") %}

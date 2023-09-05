@@ -9,7 +9,7 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center" margin="tight" bgPath="img/paint.jpeg" bgStyle="full") %} 
+{% row(style="center" margin="tight" bgPath="img/freeflow_header_home5.jpeg" bgStyle="full") %} 
 
 <div class="text-white">
 

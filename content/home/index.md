@@ -37,13 +37,8 @@ Come one, come all. Co-founders who are dreamers and doers. Digital Nomads and S
 
 <br>
 
-<button>[Become a Citizen](/citizenship)</button>
-
-{% end %}
-
-{% row(style="center" margin="narrow" padding="top") %}
-
-## How it Works
+<button>[FreeFlow Solutions](/solutions)</button>
+<button>[Join the Nation](/citizenship)</button>
 
 {% end %}
 
