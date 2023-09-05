@@ -5,8 +5,8 @@ image_caption: "Technology as a Tool for Humanity"
 description: While technology has had an important role in the creation of today’s societies, it might have an even greater role for our future. Two opposite pictures could be painted - a utopia or a dystopia. Technology should not be a tool to extort humanity, but one at the service of humanity.
 date: 2022-10-28
 taxonomies:
-  tags: [threefold, why]
-  categories: [threefold]
+  tags: [why]
+  categories: []
 extra:
   author: victoria_obeegadoo
   imgPath: tool_for_humanity.jpeg
@@ -54,7 +54,7 @@ One technology that has been slowly taking the dystopian route is the Internet. 
 
 <br>
 
-At ThreeFold, we want to encourage the creation of a utopian future driven by thoughtful technology. Our founders took part in the way the Internet was created, full of beautiful promises, and have seen first-hand how those promises have been corrupted throughout its evolution. By building a new Internet infrastructure from scratch, ThreeFold goes back to those original promises while having learnt from the development mistakes.
+We want to encourage the creation of a utopian future driven by thoughtful technology. Our founders took part in the way the Internet was created, full of beautiful promises, and have seen first-hand how those promises have been corrupted throughout its evolution. By building a new Internet infrastructure from scratch, we go back to those original promises while having learnt from the development mistakes.
 
 <br>
 

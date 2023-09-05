@@ -47,7 +47,7 @@ The cooperative will be a globally recognized structure that enables us to effec
 
 |||
 
-![Image](./img/fear_to_love.jpeg)
+![Image](./img/cooperative.png)
 
 {% end %}
 

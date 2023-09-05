@@ -5,15 +5,15 @@ image_caption: "The Evolution Towards A More Secure, Private, And Sovereign Inte
 description: Today, the Internet is a ubiquitous part of our daily lives, and it continues to evolve. As we continue to innovate and collaborate, we can build a better, more secure digital future for all.
 date: 2023-04-11
 taxonomies:
-  tags: [threefold_grid, technology, peer_to_peer, threefold_cloud]
-  categories: [foundation]
+  tags: [technology, peer_to_peer, decentralization]
+  categories: []
 extra:
   author: victoria_obeegadoo
   imgPath: evolution.jpeg
   isFeatured: "true"
 ---
 
-The Internet has undergone a natural evolution from its early days as a fragmented network of computers, to the vast interconnected web of infrastructure and platforms we know today. This has shaped the way we communicate, work, and live. With each passing decade, new technologies and protocols have emerged to address growing concerns about cybercrime, surveillance, and censorship. Let's take a closer look at each phase of this evolution and how ThreeFold is taking action for the next step.
+The Internet has undergone a natural evolution from its early days as a fragmented network of computers, to the vast interconnected web of infrastructure and platforms we know today. This has shaped the way we communicate, work, and live. With each passing decade, new technologies and protocols have emerged to address growing concerns about cybercrime, surveillance, and censorship. Let's take a closer look at each phase of this evolution and how we are taking action for the next step.
 
 ## 1960s to 1980s: Internet's Early Days
 
@@ -81,20 +81,4 @@ Today, the Internet is a ubiquitous part of our daily lives, and it continues to
 
 <br/>
 
-On our side, at ThreeFold, we see that many of the solutions being presented today are mere band-aids, without addressing the root of the problems of what the Internet has become. Our founders, who were early Internet pioneers themselves, along with a dedicated team, are building the infrastructure for tomorrow’s Internet. One that takes inspiration from the early days. One that is decentralized, peer-to-peer, open-source, secure, private, and much more! We believe that putting people at the forefront of our project is crucial, and that protecting our planet’s resources while doing so is equally important. We have a project like no other, and if you believe in the evolution of the Internet towards more security, privacy & sovereignty, we invite you to dive in to learn more.
-
-<br/>
-
-- Visit our [Website](https://www.threefold.io).
-- Visit our [Forum](https://forum.threefold.io/).
-- Collaborate on [GitHub](https://github.com/threefoldtech).
-- Subscribe to our [Weekly & Monthly Newsletters](https://bit.ly/threefoldweekly).
-- Connect with us on [Twitter](https://twitter.com/threefold_io), [LinkedIn](https://ae.linkedin.com/company/threefold-foundation), & [Reddit](https://www.reddit.com/r/threefold/).
-- Join our [Community Chat](https://t.me/threefold) and [Updates Channel](https://t.me/threefoldnews).
-
-* Visit our [Website](https://www.threefold.io). 
-* Visit our [Forum](https://forum.threefold.io/).
-* Collaborate on [GitHub](https://github.com/threefoldtech).
-* Subscribe to our [Weekly & Monthly Newsletters](https://bit.ly/threefoldweekly).
-* Connect with us on [Twitter](https://twitter.com/threefold_io), [LinkedIn](https://ae.linkedin.com/company/threefold-foundation), & [Reddit](https://www.reddit.com/r/threefold/).
-* Join our [Community Chat](https://t.me/threefold) and [Updates Channel](https://t.me/threefoldnews).
+On our side, we see that many of the solutions being presented today are mere band-aids, without addressing the root of the problems of what the Internet has become. Our founders, who were early Internet pioneers themselves, along with a dedicated team, are building the infrastructure for tomorrow’s Internet. One that takes inspiration from the early days. One that is decentralized, peer-to-peer, open-source, secure, private, and much more! We believe that putting people at the forefront of our project is crucial, and that protecting our planet’s resources while doing so is equally important. We have a project like no other, and if you believe in the evolution of the Internet towards more security, privacy & sovereignty, we invite you to dive in to learn more.
