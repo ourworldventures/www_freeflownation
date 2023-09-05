@@ -41,4 +41,10 @@ Come one, come all. Co-founders who are dreamers and doers. Digital Nomads and S
 
 {% end %}
 
+{% row(style="center" margin="narrow" padding="top") %}
+
+## How it Works
+
+{% end %}
+
 </div>
