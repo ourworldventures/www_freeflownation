@@ -5,11 +5,11 @@ image_caption: "What is a Digital Twin?"
 description: In the current Internet system, each of us exists many times, each application provider owns our data while offering functionality they own. We become the user. We become the product. Instead, what if we were at the center of our digital lives?
 date: 2022-10-18
 taxonomies:
-  tags: [threefold, technology, peer_to_peer]
-  categories: [threefold]
+  tags: [peer_to_peer, sovereignty]
+  categories: []
 extra:
   author: victoria_obeegadoo
-  imgPath: digital_twin.png
+  imgPath: twin.png
 ---
 
 ## What is a Digital Twin?
@@ -18,7 +18,7 @@ In the current Internet system, each of us exists many times, each application p
 
 <br>
  
-The Web4 Digital Twin architecture does just that: it puts us at the center of our digital experience. Indeed, Digital Twin is a user-centric technological platform to build efficient, sovereign and secure digital experiences. Digital Twin technology empowers people and businesses to exchange information and value without any intermediaries, while making applications more scalable, efficient and secure than on any other web paradigm such as Web2, Web3 or Web5. Digital Twins require a decentralized Internet infrastructure and run perfectly on top of the ThreeFold Grid.
+The Digital Twin architecture does just that: it puts us at the center of our digital experience. Indeed, Digital Twin is a user-centric technological platform to build efficient, sovereign and secure digital experiences. Digital Twin technology empowers people and businesses to exchange information and value without any intermediaries, while making applications more scalable, efficient and secure than on any other web paradigm.
  
 ## Your Digital Twin is a mirror of yourself!
  
@@ -76,10 +76,6 @@ This is a very different paradigm compared to current web or mobile applications
  
 Developers can create experiences re-using the open source capabilities the Twin offers, also eliminating the need to reinvent features.
  
-## Note on Connection & Security
- 
-As a “user”, you can use any browser to access experiences built on top of your Digital Twin. For example, a storage experience that stores data on your Twin or a browser experience that allows you to surf the web from your Twin's node. When you connect to your Twin, our **[ThreeFold Connect](https://library.threefold.me/info/threefold#/web4/threefold__threefold_connect)** makes sure that the connection is secure. The Twin runs on a node on the ThreeFold Grid, which you are securely connected to. This takes care of a very safe approach and unlimited scalability. We will dive deeper into the Twin’s security and scalability aspects in a future blog!
- 
 ## Digital Twin in a nutshell
  
 Hopefully, by now you will have a better understanding of the Digital Twin concept. Here is a short recap of everything mentioned so far about it:
@@ -92,7 +88,3 @@ Hopefully, by now you will have a better understanding of the Digital Twin conce
 * This is super efficient and sustainable, +10x power savings.
 * No blockchain required for your digital life = more privacy, performance, green
    * Exception: blockchain is needed for digital currencies and as a phone book for Digital Twin’s identity.
- 
-<br>
- 
-If you would like to see what the current iteration of the Digital Twin looks like, [try it out](https://demo.freeflow.life/) yourself with [FreeFlow Twin](https://freeflow.life/) in its current beta version! Connect with ThreeFold on [Twitter](https://twitter.com/threefold_io), [Telegram](https://t.me/threefold), [LinkedIn](https://www.linkedin.com/company/threefold-foundatiooon/), and [Reddit](https://reddit.com/r/threefold) to join our community and stay updated about evolutions of the ThreeFold project and Digital Twin.
