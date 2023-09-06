@@ -120,7 +120,7 @@ img[src*="#tft_img"] {
 }
 
 button:hover :is(:where(a)) {
-  color: #c6f8ff;
+  color: #cd8c4c;
 }
 
 button :is(:where(p)) {
@@ -166,20 +166,20 @@ header .freeflow div, #info-menu div, #info-mobile-menu div {
 }
 
 button {
-  background-color: #1a1a1a;
+  background-color: #106c6a;
   border-radius: 20px;
   border: 2px solid white;
   box-shadow: none;
   font-size: 20px;
 }
 
-button {
-    background-color: #1a1a1a;
+/* button {
+    background-color: #106c6a;
     border-radius: 10px;
     border: none;
     box-shadow: none;
     font-size: 20px;
-  }
+  } */
 
 button a {
   color: white;
@@ -198,6 +198,10 @@ header {
   padding: 0 !important;
   border: none !important;
   box-shadow: none !important;
+}
+
+.nav_btn:hover{
+  color: #cd8c4c;
 }
 
 .quicklinks {
@@ -306,7 +310,7 @@ header {
 }
 
 a:hover{
-  color: #5e5b59;
+  color: #cd8c4c;
 }
 
 .banner:hover {
@@ -414,8 +418,8 @@ video {
   top: 0;
   right: 0;
   z-index: 40;
-  background-color: black;
-  opacity: .5;
+  background-color: rgba(0, 0, 0, 0.2);
+  /* opacity: .5; */
 }
 .content {
   background: rgba(0, 0, 0, 0.5);

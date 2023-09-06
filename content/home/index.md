@@ -37,7 +37,8 @@ Come one, come all. Co-founders who are dreamers and doers. Digital Nomads and S
 
 <br>
 
-<button>[Become a Citizen](/citizenship)</button>
+<button>[FreeFlow Solutions](/solutions)</button>
+<button>[Join the Nation](/citizenship)</button>
 
 {% end %}
 

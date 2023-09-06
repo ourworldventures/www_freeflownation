@@ -9,11 +9,11 @@ weight: 1
 
 <!-- section 1 -->
 
-{% row(style="center" margin="tight" bgPath="img/paint.jpeg" bgStyle="full") %} 
+{% row(style="center" margin="tight" bgPath="img/freeflow_header_home5.jpeg" bgStyle="full") %} 
 
 <div class="text-white">
 
-# About
+## About FreeFlow Nation
 
 <br>
 
@@ -47,7 +47,7 @@ The cooperative will be a globally recognized structure that enables us to effec
 
 |||
 
-![Image](./img/fear_to_love.jpeg)
+![Image](./img/cooperative1.png)
 
 {% end %}
 

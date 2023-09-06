@@ -116,9 +116,9 @@ window.onload = function () {
 
     var links = document.links;
     var internal_hosts = [
-        'www.ourworld.tf',
-        'ourworld.tf',
-        'www2.ourworld.tf',
+        'www.freeflow.ourworld.tf',
+        'freeflow.ourworld.tf',
+        'www2.freeflow.ourworld.tf',
         'localhost',
         '127.0.0.1'
     ]
