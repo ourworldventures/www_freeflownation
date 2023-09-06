@@ -360,6 +360,9 @@ a:hover{
   .header {
     padding: 80px 0;
   }
+  footer {
+    text-align: center;
+ }
 }
 
 header #menu button,  #info-menu button, #info-mobile-menu button{ 

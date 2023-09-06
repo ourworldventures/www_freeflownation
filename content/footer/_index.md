@@ -4,15 +4,15 @@ description: ""
 insert_anchor_links: "left"
 template: "partials/footer.html"
 extra:
-  logoPath: "images/black_threefold.png"
-  socialLinks: { Github: "https://github.com/threefoldfoundation", Github2: "https://github.com/threefoldtech", Twitter: "https://twitter.com/threefold_io", Telegram: "https://t.me/threefoldnews"  }
+  logoPath: "images/ff_logo_new.png"
+  socialLinks: {  }
 ---
 
 {% row(style="lean") %}
 
 ##### **LEARN**
 
-<br>
+
 
 <a onclick="window.open('', '_blank')"><h6>Knowledgebase</h6></a>
 
@@ -24,7 +24,7 @@ extra:
 
 ##### **COLLABORATORS**
 
-<br>
+
 
 <a onclick="window.open('https://threefold.io', '_blank')"><h6>ThreeFold</h6></a>
 
@@ -36,7 +36,7 @@ extra:
 
 ##### **BUILT ON THREEFOLD**
 
-<br>
+
 
 <a onclick="window.open('https://t.me/threefold', '_blank')"><h6>Main Community</h6></a>
 
@@ -53,4 +53,8 @@ cursor: pointer;
 
   }
   
+
+  h5{
+    padding-bottom: 5px;
+  }
   </style>
